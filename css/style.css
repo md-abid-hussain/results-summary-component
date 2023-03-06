@@ -13,6 +13,10 @@ h1,h2,h3,h4{
     font:inherit;
 }
 
+img{
+    display: block;
+}
+
 body{
     font:18px 'HankenGrotesk',sans-serif;
     height:100vh;
